@@ -2,7 +2,7 @@
 Меня зовут Екатерина, я - начинающий аналитик данных
 
 ### Мой стек
-Linux, Windows, Bash, Python, PostgreSQL, Git, Orange
+Linux, Windows, Bash, Python, PostgreSQL, Git, Orange, Google Data Studio
 
 ### Мои сертификаты
 Python: https://github.com/EkaterinaElagina/EkaterinaElagina/blob/main/696107249.png
