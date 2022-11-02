@@ -1,8 +1,11 @@
 ### Привет!
-Меня зовут Екатерина, я начинающий аналитик данных
+Меня зовут Екатерина, я - начинающий аналитик данных
 
 ### Мой стек
 Linux, Windows, Bash, Python, PostgreSQL, Git
+
+### Мои сертификаты
+
 <!--
 **EkaterinaElagina/EkaterinaElagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
