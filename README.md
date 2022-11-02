@@ -7,7 +7,7 @@ Linux, Windows, Bash, Python, PostgreSQL, Git
 ### Мои сертификаты
 Python https://github.com/EkaterinaElagina/EkaterinaElagina/blob/main/696107249.png
 
-Data Science: обработка естественного языка coming soon
+Data Science: обработка естественного языка   coming soon
 <!--
 **EkaterinaElagina/EkaterinaElagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
