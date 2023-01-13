@@ -1,5 +1,5 @@
 ### Привет!
-Меня зовут Екатерина, я - начинающий специалист по Data Science QA
+Меня зовут Екатерина, я - начинающий специалист по Data Science и QA
 
 ### Мой стек
 Linux, Windows, Bash, Python, PostgreSQL, Git, Orange, Google Data Studio
